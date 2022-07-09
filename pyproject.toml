@@ -8,6 +8,8 @@ authors = ["Daviey52 <davidkariska@gmail.com>"]
 python = "^3.9"
 requests = "^2.27.1"
 bs4 = "^0.0.1"
+openpyxl = "^3.0.9"
+pytest = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 
